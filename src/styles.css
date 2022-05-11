@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;600&family=Josefin+Sans:ital,wght@0,300;0,400;1,600&display=swap');
+
+*{
+    font-family: 'Heebo', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root{
+    --primary-color:rgb(0, 212, 0);
+    --secondary-color:rgb(9, 75, 9);
+}
